@@ -12,3 +12,5 @@ Control.
 2 Projects: 
 Machine Learning and Computer Vision Project on embedded systems (Raspberry Pi 5), 
 Dynamic Systems Project using State Space Modelling
+
+Memberships: IEEE RAS, Engineers Ireland, MU Engineering and Robotics Society - Events Officer
