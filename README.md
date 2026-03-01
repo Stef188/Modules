@@ -23,5 +23,5 @@ Control.
 Machine Learning and Computer Vision Project on Embedded Systems (Raspberry Pi 5), 
 Dynamic Systems Project using State Space Modelling.
 
-Memberships: <a href=https://edu.ieee.org/ie-maynooth/>IEEE and RAS Chapter</a> , <a href = https://www.engineersireland.ie/>Engineers Ireland </a>, <a href= https://mulife.ie/society/engineering-robotics>MU Engineering and Robotics Society - currently the Events Officer</a>
+Memberships: Vice Chair of <a href=https://edu.ieee.org/ie-maynooth/>IEEE MU Student Branch, member of RAS Chapter</a> , <a href = https://www.engineersireland.ie/>Engineers Ireland </a>, <a href= https://mulife.ie/society/engineering-robotics>MU Engineering and Robotics Society - currently the Events Officer</a>
 
